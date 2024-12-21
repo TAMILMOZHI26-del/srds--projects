@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/SRDS--PROJECT/static/css/main.40bd74c4.css",
-    "main.js": "/SRDS--PROJECT/static/js/main.a2c42d07.js",
-    "static/media/image16.png": "/SRDS--PROJECT/static/media/image16.4c9c0126ccd746209b33.png",
-    "static/media/image17.png": "/SRDS--PROJECT/static/media/image17.0d70d248816c607c3fb5.png",
-    "static/media/image06.jpeg": "/SRDS--PROJECT/static/media/image06.9a54a6ef9071f7f01736.jpeg",
-    "static/media/image04.png": "/SRDS--PROJECT/static/media/image04.380f96d2f33125bfa982.png",
-    "static/media/About.jpeg": "/SRDS--PROJECT/static/media/About.abaf394d0cd4ac42bd1a.jpeg",
-    "static/media/image02.png": "/SRDS--PROJECT/static/media/image02.b48f1b5e7b5c551df305.png",
-    "static/media/instagram.png": "/SRDS--PROJECT/static/media/instagram.1d3c37eade5b6ff1180d.png",
-    "static/media/image2.jpeg": "/SRDS--PROJECT/static/media/image2.1ef434ef5fe70ec53691.jpeg",
-    "static/media/youtube.png": "/SRDS--PROJECT/static/media/youtube.36816c56e7a95f4df1bf.png",
-    "static/media/twitter.png": "/SRDS--PROJECT/static/media/twitter.ea1ed14605fa86e8a31e.png",
-    "static/media/srdslogo.png": "/SRDS--PROJECT/static/media/srdslogo.92d1aa03824a4a9b2f1e.png",
-    "static/media/teamimage.jpg": "/SRDS--PROJECT/static/media/teamimage.ac49c19831e4a6fba2eb.jpg",
-    "index.html": "/SRDS--PROJECT/index.html",
-    "main.40bd74c4.css.map": "/SRDS--PROJECT/static/css/main.40bd74c4.css.map",
-    "main.a2c42d07.js.map": "/SRDS--PROJECT/static/js/main.a2c42d07.js.map"
+    "main.css": "/srds--projects/static/css/main.546a6c0a.css",
+    "main.js": "/srds--projects/static/js/main.e8ae1be3.js",
+    "static/media/image16.png": "/srds--projects/static/media/image16.4c9c0126ccd746209b33.png",
+    "static/media/image17.png": "/srds--projects/static/media/image17.0d70d248816c607c3fb5.png",
+    "static/media/image06.jpeg": "/srds--projects/static/media/image06.9a54a6ef9071f7f01736.jpeg",
+    "static/media/image04.png": "/srds--projects/static/media/image04.380f96d2f33125bfa982.png",
+    "static/media/About.jpeg": "/srds--projects/static/media/About.abaf394d0cd4ac42bd1a.jpeg",
+    "static/media/image02.png": "/srds--projects/static/media/image02.b48f1b5e7b5c551df305.png",
+    "static/media/instagram.png": "/srds--projects/static/media/instagram.1d3c37eade5b6ff1180d.png",
+    "static/media/image2.jpeg": "/srds--projects/static/media/image2.1ef434ef5fe70ec53691.jpeg",
+    "static/media/youtube.png": "/srds--projects/static/media/youtube.36816c56e7a95f4df1bf.png",
+    "static/media/twitter.png": "/srds--projects/static/media/twitter.ea1ed14605fa86e8a31e.png",
+    "static/media/srdslogo.png": "/srds--projects/static/media/srdslogo.92d1aa03824a4a9b2f1e.png",
+    "static/media/teamimage.jpg": "/srds--projects/static/media/teamimage.ac49c19831e4a6fba2eb.jpg",
+    "index.html": "/srds--projects/index.html",
+    "main.546a6c0a.css.map": "/srds--projects/static/css/main.546a6c0a.css.map",
+    "main.e8ae1be3.js.map": "/srds--projects/static/js/main.e8ae1be3.js.map"
   },
   "entrypoints": [
-    "static/css/main.40bd74c4.css",
-    "static/js/main.a2c42d07.js"
+    "static/css/main.546a6c0a.css",
+    "static/js/main.e8ae1be3.js"
   ]
 }
